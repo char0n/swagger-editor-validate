@@ -1,5 +1,15 @@
 # Swagger Editor Validate Github Action
 
+---
+
+> [!WARNING]  
+> This repository and it's GitHub Action has been transferred to [swaggerexpert/swagger-editor-validate](https://github.com/swaggerexpert/swagger-editor-validate).
+> Please migrate to [swaggerexpert/swagger-editor-validate](https://github.com/swaggerexpert/swagger-editor-validate) ASAP. This repository is here only for backward
+> compatible reason and is not doing to be maintained anymore. 
+
+---
+
+
 This GitHub Action validates OpenAPI (OAS) definition file using [Swagger Editor](https://editor.swagger.io/).
 
 ![test](https://user-images.githubusercontent.com/193286/110246148-b7aea580-7f66-11eb-9bd7-940ece1fc6b0.png)
