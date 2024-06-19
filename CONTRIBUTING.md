@@ -112,7 +112,11 @@ to read on GitHub as well as in various git tools.
 
 Footer should contain a [closing reference to an issue](https://help.github.com/articles/closing-issues-via-commit-messages/) if any.
 
+<<<<<<< Updated upstream
 Samples: (even more [samples](https://github.com/char0n/swagger-editor-validate/commits/master))
+=======
+Samples: (even more [samples](https://github.com/swaggerexpert/swagger-editor-validate/commits/master))
+>>>>>>> Stashed changes
 
 ```
 docs(changelog): update change log to beta.5
