@@ -5,7 +5,7 @@
 > [!WARNING]  
 > This repository and it's GitHub Action has been transferred to [swaggerexpert/swagger-editor-validate](https://github.com/swaggerexpert/swagger-editor-validate).
 > Please migrate to [swaggerexpert/swagger-editor-validate](https://github.com/swaggerexpert/swagger-editor-validate) ASAP. This repository is here only for backward
-> compatible reason and is not doing to be maintained anymore. 
+> compatible reason and is not going to be maintained anymore. 
 
 ---
 
